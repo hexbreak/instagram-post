@@ -17,11 +17,11 @@ body {
      background:white;
      flex-direction: column;
      height: 580px;
-     width:429px;
+     width: 429px;
      justify-content: center;
-     margin-right:3px;
-     margin-top:22px;
-     margin-bottom:25px; 
+     margin-right: 3px;
+     margin-top: 22px;
+     margin-bottom: 25px; 
      padding-bottom: 9px;
  }
 
@@ -38,7 +38,7 @@ body {
     font-size: 25.5px;
     margin-right: 8px;
     margin-top: 11px;
-    padding-left:5px;   
+    padding-left: 5px;   
 }
 
 .h-title {
@@ -53,29 +53,29 @@ body {
 }
 
 .h-ellipsis {
-      justify-content:flex-end;
-      font-size:25px;
+      justify-content: flex-end;
+      font-size: 25px;
       padding-top: 11px;
-      padding-right:5px;
+      padding-right: 5px;
 }
 
 .image img {
-     width:429px;
-     height:322px;
-     padding-top:2px;
+     width: 429px;
+     height: 322px;
+     padding-top: 2px;
 }
 
 .icons {
     flex-direction: row;
-    justify-content:space-between;
+    justify-content: space-between;
     padding-top: 12px;
     padding-left:10px;
-    font-size:20px;
+    font-size: 20px;
 }
 
 .icons i {
     font-size: 29px;
-    padding:1.2px;
+    padding: 1.2px;
 }
 
 .bookmark {
@@ -83,13 +83,13 @@ body {
 }
 
 .bookmark i {
-    font-size:30px;
-    padding-right:22px;
+    font-size: 30px;
+    padding-right: 22px;
 }
 
 .text {
     padding: 10px;
     font-size: 14px;
-    padding-left:13px;
+    padding-left: 13px;
     letter-spacing: .2px
 }
