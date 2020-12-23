@@ -3,6 +3,7 @@ body {
     background: gray;
     justify-content: center;
     height: 1oovh;
+    display: flex;
 }
 
 .outerdiv {
